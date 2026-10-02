@@ -1,6 +1,7 @@
 # 👋 Hello, I'm John
 
-<p style="font-size:18px;color:black">I'm a backend software engineer specializing in Java, currently pursuing a part-time MSc in Information Systems Development and Security. Passionate about designing scalable and secure software solutions while continuously enhancing my knowledge in backend development and DevOps practices.</p>
+<p style="font-size:18px;color:black">I'm a Backend Developer with experience in ERP systems, enterprise
+banking projects, and startup ventures. Passionate about designing scalable and secure software solutions, integrating complex systems, and continuously enhancing my knowledge in backend development and DevOps practices.</p>
 
 <br/>
 
